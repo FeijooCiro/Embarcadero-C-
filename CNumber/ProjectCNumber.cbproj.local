@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/05/11 17:35:14.000.490,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021/05/11 17:35:15.000.959,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/06/02 14:00:25.366,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023/06/02 14:00:25.410,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2023/06/02 14:08:12.647,C:\Users\Usuario\Desktop\CIRO\EEST N2 Trabajos\7°2°\Abdala\Embarcadero C++ Builder\CNumber\File1.cpp=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2023/06/02 14:25:57.026,C:\Users\Usuario\Desktop\CIRO\EEST N2 Trabajos\7°2°\Abdala\Embarcadero C++ Builder\CNumber\ProjectCNumberPCH1.h=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023/06/02 14:25:57.059,C:\Users\Usuario\Desktop\CIRO\EEST N2 Trabajos\7°2°\Abdala\Embarcadero C++ Builder\CNumber\ProjectCNumber.cbproj=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
