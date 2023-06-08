@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/05/11 17:35:14.000.490,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021/05/11 17:35:15.000.959,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/06/07 23:02:47.496,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023/06/07 23:02:47.560,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/06/07 23:08:26.255,C:\Users\Usuario\Desktop\CIRO\EEST N2 Trabajos\7°2°\Abdala\Embarcadero C++ Builder\Guía Trabajos Prácticos\Ejercicio 3\Contador1.dfm=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/06/07 23:08:26.255,C:\Users\Usuario\Desktop\CIRO\EEST N2 Trabajos\7°2°\Abdala\Embarcadero C++ Builder\Guía Trabajos Prácticos\Ejercicio 3\Contador1.h=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2023/06/07 23:08:26.255,C:\Users\Usuario\Desktop\CIRO\EEST N2 Trabajos\7°2°\Abdala\Embarcadero C++ Builder\Guía Trabajos Prácticos\Ejercicio 3\Contador1.cpp=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/06/07 23:08:43.786,C:\Users\Usuario\Desktop\CIRO\EEST N2 Trabajos\7°2°\Abdala\Embarcadero C++ Builder\Guía Trabajos Prácticos\Ejercicio 3\ContadorPCH1.h=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023/06/07 23:08:43.814,C:\Users\Usuario\Desktop\CIRO\EEST N2 Trabajos\7°2°\Abdala\Embarcadero C++ Builder\Guía Trabajos Prácticos\Ejercicio 3\Contador.cbproj=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
